@@ -8,7 +8,7 @@ This github is my road to junior Data scientist :skier:
 
 - :telescope: I am studying to major in machine learning.
 
-- 🍉: Here I keep the results of my work
+- 🍉 Here I keep the results of my work
 
 - :mailbox: How to reach me: http://t.me/shulyakds
 
