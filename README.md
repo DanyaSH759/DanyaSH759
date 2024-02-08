@@ -12,3 +12,4 @@ This github is my road to junior Data scientist :skier:
 
 - :mailbox: How to reach me: http://t.me/shulyakds
 
+- 📚 Portfolio of my projects: https://github.com/DanyaSH759/Portfolio_data_science
